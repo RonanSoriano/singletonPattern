@@ -9,4 +9,4 @@ This approach aims to maintain an organized queuing process for individuals visi
 
 
 # Class Diagram
-
+![Singleton Design Pattern](https://github.com/RonanSoriano/singletonPattern/assets/142371669/63f9f5ee-9a57-4133-a6bf-21447501ccbf)
